@@ -1,1 +1,1 @@
-Tic-tac-toe game | Exercise for Elan Formation
+Tic-tac-toe game | Exercice for Elan Formation
